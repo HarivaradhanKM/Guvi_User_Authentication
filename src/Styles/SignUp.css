@@ -1,0 +1,27 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px 12px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
